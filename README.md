@@ -1,2 +1,2 @@
 # Animation_101
-Created with CodeSandbox
+Animation using Canvas. Created with CodeSandbox
